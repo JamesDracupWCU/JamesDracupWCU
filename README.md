@@ -12,6 +12,6 @@
 * Data Analytics
 
 ## 🎻 Hobbies:
-* Violin and listening to Music in general
+* Violin and listening to music in general
 * Gaming
 * Running
