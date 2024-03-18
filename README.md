@@ -4,7 +4,11 @@
 * Current: BS Physics and Accelerated BS/MS CS major at West Chester University of Pennsylvania.
 
 ## 💻 Currently Learning:
-* CS-586 Linux System Administration and Security
+* PHY-390: Atrophysics
+* PHY-350: Thermodynamics
+* CSC-402: Software Engineering
+* CSC-481: Artificial Intelligence
+* CSC-402: Independent Project (Pokemon AI Battle Algorithm Implementation for NPCs)
 
 ## 🤖 Interested In Learning:
 * Artificial Intelligence
