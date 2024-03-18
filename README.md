@@ -14,4 +14,3 @@
 ## 🎻 Hobbies:
 * Violin and listening to music in general
 * Gaming
-* Running
