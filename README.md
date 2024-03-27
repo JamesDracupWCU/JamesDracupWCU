@@ -8,7 +8,7 @@
 * PHY-350: Thermodynamics
 * CSC-402: Software Engineering
 * CSC-481: Artificial Intelligence
-* CSC-402: Independent Project (Pokemon AI Battle Algorithm Implementation for NPCs)
+* CSC-402: Independent Project (Pokemon AI Battle Algorithm Implementation for NPCs & Open-World Dynamic Level Scaling)
 
 ## 🤖 Interested In Learning:
 * Artificial Intelligence
