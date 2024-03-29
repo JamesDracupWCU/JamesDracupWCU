@@ -4,7 +4,7 @@
 * Current: BS Physics and Accelerated BS/MS CS major at West Chester University of Pennsylvania.
 
 ## 💻 Currently Learning:
-* PHY-390: Atrophysics
+* PHY-390: Astrophysics
 * PHY-350: Thermodynamics
 * CSC-402: Software Engineering
 * CSC-481: Artificial Intelligence
