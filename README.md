@@ -1,7 +1,7 @@
 ### Hello, I'm James👋
 
 ## About me:
-* Current: BS Physics and Accelerated BS/MS CS major at West Chester University of Pennsylvania.
+* Current BS Physics and Accelerated BS/MS CS major at West Chester University of Pennsylvania.
 
 ## 💻 Currently Learning:
 * PHY-390: Astrophysics
