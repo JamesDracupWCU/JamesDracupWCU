@@ -1,13 +1,13 @@
 ### Hello, I'm James👋
 
 ## About me:
-* Current BS Physics and Accelerated BS/MS CS major at West Chester University of Pennsylvania.
+* Current MS CS major at West Chester University of Pennsylvania.
 
 ## 💻 Currently Learning:
-* CSC-402: Software Engineering
-* CSC-481: Artificial Intelligence
-* CSC-402: Independent Project:
-  - Pokemon AI Battle Algorithm Implementation for NPCs & Open-World Dynamic Level Scaling
+* CSC-520: Foundations of Computer Science
+* CSC-530: Data Structures
+* CSC-600: Advanced Seminar
+* CSC-610: Independent Project:
 
 ## 🤖 Interested In Learning:
 * Artificial Intelligence
